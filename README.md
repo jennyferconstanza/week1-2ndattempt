@@ -7,4 +7,4 @@ For this challenge,  we were given a starter code that needed modification, or t
 
 ![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./challenge1-finalscreenshot.png)
 
-[Deployed Gitpage](https://jennyferconstanza.github.io/week1-challenge/)
+[Deployed Gitpage](https://jennyferconstanza.github.io/week1-2ndattempt/)
